@@ -1,5 +1,5 @@
-apples
-bananas
-strawberries
+Apples
+Bananas
+Strawberries
 Plopkoek
 
